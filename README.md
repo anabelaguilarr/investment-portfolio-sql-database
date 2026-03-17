@@ -23,6 +23,9 @@ Brokers - stores broker or platform information
 
 Trades - stores buy/sell transactions linked to portfolios, assets, and brokers
 
+<img width="1391" height="664" alt="Captura de pantalla 2026-02-17 222415" src="https://github.com/user-attachments/assets/5caf0e89-71d8-4e11-b526-29c72f9b7a60" />
+
+
 ## Key Features
 
 Primary key and foreign key constraints
