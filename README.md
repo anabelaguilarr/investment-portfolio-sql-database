@@ -45,17 +45,17 @@ sql/queries.sql - analytical SQL queries
 
 The project includes queries for:
 
-multi-table joins across portfolios, investors, assets, and brokers
+* multi-table joins across portfolios, investors, assets, and brokers
 
-trade counts by investor
+* trade counts by investor
 
-filtering and sorting of transactions
+* filtering and sorting of transactions
 
-net invested amount by portfolio
+* net invested amount by portfolio
 
-trade activity by asset type
+* trade activity by asset type
 
-broker-specific trade analysis
+* broker-specific trade analysis
 
 ## ER Diagram
 
